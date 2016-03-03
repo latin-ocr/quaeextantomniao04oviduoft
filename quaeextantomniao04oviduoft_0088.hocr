@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaeextantomniao04oviduoft_0088.png"; bbox 0 0 1820 3106; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 280 1256 1688 1398">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 280 1256 1688 1398">
+     <span class='ocr_line' id='line_1_1' title="bbox 333 1256 1688 1322; baseline 0.01 -27"><span class='ocrx_word' id='word_1_1' title='bbox 333 1256 386 1295; x_wconf 89' lang='lat' dir='ltr'><strong>N.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 409 1257 462 1297; x_wconf 91' lang='lat' dir='ltr'><strong>B.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 485 1257 764 1313; x_wconf 81' lang='lat' dir='ltr'><strong>Argumentum</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 779 1261 890 1316; x_wconf 86' lang='lat' dir='ltr'><strong>hujus</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 913 1262 1019 1303; x_wconf 84' lang='lat' dir='ltr'>Libri</span> <span class='ocrx_word' id='word_1_6' title='bbox 1038 1266 1132 1305; x_wconf 89' lang='lat' dir='ltr'>noni</span> <span class='ocrx_word' id='word_1_7' title='bbox 1154 1267 1513 1322; x_wconf 79' lang='lat' dir='ltr'>Metamorphoseon</span> <span class='ocrx_word' id='word_1_8' title='bbox 1531 1266 1688 1308; x_wconf 77' lang='lat' dir='ltr'><strong>relatum</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 280 1332 1281 1398; baseline 0.012 -28"><span class='ocrx_word' id='word_1_9' title='bbox 280 1332 447 1373; x_wconf 83' lang='lat' dir='ltr'>invenies</span> <span class='ocrx_word' id='word_1_10' title='bbox 472 1333 510 1372; x_wconf 89' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 531 1335 626 1375; x_wconf 85' lang='lat' dir='ltr'>serie</span> <span class='ocrx_word' id='word_1_12' title='bbox 646 1336 860 1389; x_wconf 74' lang='lat' dir='ltr'><strong>CANTEm,</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 887 1346 979 1378; x_wconf 78' lang='lat' dir='ltr'><strong>tom.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1002 1340 1063 1379; x_wconf 89' lang='grc' dir='ltr'><strong>ΙΙΙ</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1076 1370 1088 1391; x_wconf 84' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1112 1354 1197 1396; x_wconf 80' lang='lat' dir='ltr'><strong>pag.</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1215 1339 1281 1398; x_wconf 87' lang='lat'><strong>39.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
